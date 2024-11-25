@@ -1,15 +1,12 @@
+import MainMenu from "../components/MainMenu.jsx"
 export default function Books() {
     return (
         <>
 
             <header>
                 <div className="Logo">Logo :)</div>
-                <nav>
-                    <a href="/">Home</a>
-                    <a href="/books">Books</a>
-                    <a href="/about">About</a>
-                    <a href="/contacts">Contacts</a>
-                </nav>
+
+                < MainMenu />
             </header>
 
             <main>

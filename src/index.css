@@ -17,3 +17,8 @@ header {
     display: flex;
 
 }
+
+&.active {
+    text-decoration: underline;
+    color: var(--react-library-accent)
+}
