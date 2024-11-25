@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom"
-import MainMenu from "../components/MainMenu"
+import MainMenu from "../components/MainMenu.jsx"
 
 
 
