@@ -21,7 +21,7 @@ export default function Contacts() {
 
             <footer>
 
-                <p>Copyright 2024</p>
+                <p>Copyright 20224</p>
             </footer>
 
 
